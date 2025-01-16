@@ -12,7 +12,7 @@
 
 
 <!--Intro start-->
-Soy backend developer con 5 años de experiencia, me gusta mucho Go y similares como Rust y Zig. Me encantan las herramientas de Terminal. Amo NeoVim.
+Soy backend developer con 5 años de experiencia, me gusta mucho Go, Ruby y Rails. Me encantan las herramientas de Terminal. Amo NeoVim.
 
 
 <!--- stats & Trophy (start) -->
@@ -26,10 +26,15 @@ Soy backend developer con 5 años de experiencia, me gusta mucho Go y similares 
 <!--tech stack icons-->
 <p align="center">
     <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-    <img alt="Go" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo">
+    <img alt="Hugo" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo">
+    <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
+    <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+    <img alt="Hotwire" src="https://img.shields.io/badge/hotwire-%23CC0000.svg?style=for-the-badge&logo=hotwire&logoColor=white">
+    <img alt="Jekyll" src="https://img.shields.io/badge/jekyll-%23CC342D.svg?style=for-the-badge&logo=jekyll&logoColor=white">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img alt="DaisyUI" src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white">
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-    <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-    <img alt="Zig" src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white">
+    <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
     <img alt="Bash" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
 
