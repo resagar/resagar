@@ -10,16 +10,22 @@
 
 <!--Intro start-->
 
-Un **_Indie Hacker_** obsesionado con:
+Desarrollador Indie Hacker apasionado por construir aplicaciones web y soluciones robustas usando Ruby y el ecosistema Rails. Me especializo en crear productos eficientes, mantenibles y con alto impacto, ya sea para mis propios proyectos o para clientes que buscan llevar sus ideas al código.
 
-- 🛠️ Crear **aplicaciones gráficas ultra-rápidas** usando lenguajes compilados (Go, Odin)
-- 📦 Compilando a **binarios nativos + WASM** (sin bloat de Electron)
-- 🎨 **Bibliotecas gráficas alternativas**: Raylib, ImGui
-- 🔥 **Productos indie** que demuestran que el frontend puede ser ligero
+Lo que hago:
 
-### 🏗️ Mi Filosofía
+- 🛠️ Desarrollo aplicaciones full-stack con Rails, desde MVP hasta escalamiento.
 
-"Menos JS, más rendimiento. Construyo herramientas que _yo mismo uso_ y que respetan tus recursos."
+- 🌱 Comparto mi proceso de construcción en público (#BuildInPublic) para inspirar a otros.
+
+- 💡 Enfoque en simplicidad y productividad, aprovechando las bondades de Ruby y las gemas de su ecosistema.
+
+- 🔥 Ofrezco consultoría y desarrollo personalizado para emprendedores y startups.
+
+¿Tienes una idea? Hablemos de cómo hacerla realidad.
+
+Blog: <https://resagar.com>
+Email: <rsamuelgarcia@gmail.com>
 
 <!--- stats & Trophy (start) -->
 
@@ -31,10 +37,13 @@ Un **_Indie Hacker_** obsesionado con:
 </div>
 <!--tech stack icons-->
 <p align="center">
-    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-    <img alt="Hugo" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo">
+    <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
+    <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+    <img alt="tailwind-css" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img alt="DaisyUI" src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white">
+    <img alt="Jekill" src="https://img.shields.io/badge/jekyll-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white">
     <img alt="Odin" src="https://img.shields.io/badge/odin-blue.svg?style=for-the-badge&logo=odin&logoColor=white">
-    <img alt="Hugo" src="https://img.shields.io/badge/Raylib-white.svg?style=for-the-badge&logo=Raylib&logoColor=black">
+    <img alt="Raylib" src="https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black">
     <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 </p>
 
