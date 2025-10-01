@@ -10,27 +10,20 @@
 
 <!--Intro start-->
 
-Indie Hacker & Backend Alchemis
-Construyo herramientas para desarrolladores, bots inteligentes y productos de terminal usando **Go y un toque de magia contracultural**
-También uso **Ruby on Rails** para MVPs web que necesitan una interfaz rápida y confiable — pero siempre con enfoque backend-first.
+✨ Indie Hacker & Backend Alchemist
+Construyo herramientas para desarrolladores y productos web con Ruby on Rails — porque sigue siendo la forma más rápida, clara y confiable de llevar ideas a producción.
 
-No diseño interfaces bonitas — **construyo sistemas que funcionan**:
-automatizaciones que hablan por Telegram, CLIs que caben en un binario, APIs que no te preguntan por tu framework frontend.
+No diseño interfaces bonitas — construyo sistemas que funcionan:
+automatizaciones que hablan por Telegram, bots que resuelven problemas reales en Discord o Slack, y MVPs web que priorizan lógica sólida sobre píxeles perfectos.
 
 Lo que hago:
 
-- 🛠️ **CLIs y TUIs en Go** — rápidas, eficientes, empaquetables en un solo binario.
+- 🤖 Bots útiles para Discord, Slack y Telegram — hechos en Ruby, enfocados en tareas reales, no en saludos vacíos.
 
-- 🤖 **Bots útiles** para Discord, Slack y Telegram — automatizan tareas reales, no solo saludan.
+- 🚀 MVPs estratégicos en Rails — listos para validar ideas en días, no meses. Con autenticación, jobs en background y buenas prácticas desde el primer commit.
 
-- 🔌 **APIs y microservicios backend-first** — lógica sólida sin frontend innecesario.
-
-- 🧪 **Experimentos raros** — scrapers inteligentes, motores de scripting embebidos con Lua, y más.
-
-- 🚀 **MVPs estratégicos** — con Go para herramientas técnicas, o Rails para productos web. Lanzables en días, no meses.
-
-Estoy en modo #BuildInPublic, compartiendo fracasos, prototipos y descubrimientos.
-Si necesitas un backend que no te distraiga con CSS, hablemos.
+Estoy en modo #BuildInPublic, compartiendo fracasos, prototipos y descubrimientos desde el ecosistema Ruby.
+Si necesitas un producto que funcione sin perder semanas en frontend, hablemos.
 
 Blog: <https://resagar.com>
 Email: <rsamuelgarcia@gmail.com>
@@ -48,8 +41,6 @@ Email: <rsamuelgarcia@gmail.com>
     <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
     <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
     <img alt="Hotwire" src="https://img.shields.io/badge/hotwire-%23FF4C4C.svg?style=for-the-badge&logo=hotwire&logoColor=white">
-    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-    <img alt="Hugo" src="https://img.shields.io/badge/hugo-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white">
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
     <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 </p>
