@@ -10,22 +10,24 @@
 
 <!--Intro start-->
 
-Indie Hacker & Backend Alchemist
-Construyo herramientas para desarrolladores, bots inteligentes y productos de terminal usando Go, Lua y un toque de magia contracultural.
+Indie Hacker & Backend Alchemis
+Construyo herramientas para desarrolladores, bots inteligentes y productos de terminal usando **Go y un toque de magia contracultural**
+También uso **Ruby on Rails** para MVPs web que necesitan una interfaz rápida y confiable — pero siempre con enfoque backend-first.
 
-No diseño interfaces bonitas — construyo sistemas que funcionan, que se automatizan, que hablan por Telegram, que corren en la CLI y que resuelven problemas reales sin ruido.
+No diseño interfaces bonitas — **construyo sistemas que funcionan**:
+automatizaciones que hablan por Telegram, CLIs que caben en un binario, APIs que no te preguntan por tu framework frontend.
 
 Lo que hago:
 
-- 🛠️ Desarrollo de CLIs y TUIs en Go — herramientas rápidas, eficientes y empaquetables en un solo binario.
+- 🛠️ **CLIs y TUIs en Go** — rápidas, eficientes, empaquetables en un solo binario.
 
-- 🤖 Bots para Discord, Slack y Telegram — automatizaciones útiles, no solo notificaciones.
+- 🤖 **Bots útiles** para Discord, Slack y Telegram — automatizan tareas reales, no solo saludan.
 
-- 🔌 Microservicios y APIs backend-first — para startups, devs y sistemas que necesitan lógica sólida sin frontend innecesario.
+- 🔌 **APIs y microservicios backend-first** — lógica sólida sin frontend innecesario.
 
-- 🧪 Experimentos raros — desde scrapers inteligentes hasta motores de scripting embebidos con Lua.
+- 🧪 **Experimentos raros** — scrapers inteligentes, motores de scripting embebidos con Lua, y más.
 
-- 💼 Freelance estratégico — ayudo a emprendedores a construir MVPs backend-first que se pueden lanzar en días, no meses.
+- 🚀 **MVPs estratégicos** — con Go para herramientas técnicas, o Rails para productos web. Lanzables en días, no meses.
 
 Estoy en modo #BuildInPublic, compartiendo fracasos, prototipos y descubrimientos.
 Si necesitas un backend que no te distraiga con CSS, hablemos.
@@ -43,11 +45,12 @@ Email: <rsamuelgarcia@gmail.com>
 </div>
 <!--tech stack icons-->
 <p align="center">
+    <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
+    <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+    <img alt="Hotwire" src="https://img.shields.io/badge/hotwire-%23FF4C4C.svg?style=for-the-badge&logo=hotwire&logoColor=white">
     <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
     <img alt="Hugo" src="https://img.shields.io/badge/hugo-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white">
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-    <img alt="Odin" src="https://img.shields.io/badge/odin-blue.svg?style=for-the-badge&logo=odin&logoColor=white">
-    <img alt="Raylib" src="https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black">
     <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 </p>
 
