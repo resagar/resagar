@@ -10,22 +10,32 @@
 
 <!--Intro start-->
 
-✨ Indie Hacker & Backend Alchemist
-Construyo herramientas para desarrolladores y productos web con Ruby on Rails — porque sigue siendo la forma más rápida, clara y confiable de llevar ideas a producción.
+## ✨ Toolmaker
 
-No diseño interfaces bonitas — construyo sistemas que funcionan:
-automatizaciones que hablan por Telegram, bots que resuelven problemas reales en Discord o Slack, y MVPs web que priorizan lógica sólida sobre píxeles perfectos.
+Durante años construí software para otros: buenos proyectos, buen código, buenos resultados. Pero siempre sentí que estaba invirtiendo mi mejor energía en construir el sueño de alguien más.
 
-Lo que hago:
+Hoy estoy en otro camino.
 
-- 🤖 Bots útiles para Discord, Slack y Telegram — hechos en Ruby, enfocados en tareas reales, no en saludos vacíos.
+Estoy enfocado en crear mis propios productos y herramientas para developers, especialmente CLI tools y TUIs, usando Go como base y explorando lenguajes como Rust y Zig para construir software más sólido, rápido y cercano al sistema.
 
-- 🚀 MVPs estratégicos en Rails — listos para validar ideas en días, no meses. Con autenticación, jobs en background y buenas prácticas desde el primer commit.
+Me interesa el software que hace mucho con poco: herramientas útiles, simples, rápidas y bien diseñadas. Cosas que resuelvan problemas reales y que se sientan bien al usarlas.
 
-Estoy en modo #BuildInPublic, compartiendo fracasos, prototipos y descubrimientos desde el ecosistema Ruby.
-Si necesitas un producto que funcione sin perder semanas en frontend, hablemos.
+También comparto el proceso en público: lo que construyo, lo que aprendo, lo que funciona y lo que falla en el camino.
+
+Actualmente estoy construyendo:
+
+- CLI tools y experiencias TUI para developers
+- Productos pequeños, útiles y bien pensados
+- Contenido sobre building in public, software craftsmanship y el proceso de crear productos propios
+
+No es el camino más fácil, pero sí el más mío.
+
+Si te interesa ese mundo, sígueme. Comparto todo en público.
+
+Y si tienes un proyecto donde necesitas ayuda en backend, tooling o desarrollo de producto, también estoy abierto a colaboraciones selectivas.
 
 Blog: <https://resagar.com>
+
 Email: <rsamuelgarcia@gmail.com>
 
 <!--- stats & Trophy (start) -->
@@ -38,10 +48,12 @@ Email: <rsamuelgarcia@gmail.com>
 </div>
 <!--tech stack icons-->
 <p align="center">
-    <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
-    <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-    <img alt="Hotwire" src="https://img.shields.io/badge/hotwire-%23FF4C4C.svg?style=for-the-badge&logo=hotwire&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+    <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+    <img alt="Zig" src="https://img.shields.io/badge/zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white">
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+    <img alt="CLI" src="https://img.shields.io/badge/CLI-gnubash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white">
+    <img alt="TUI" src="https://img.shields.io/badge/TUI-tmux-%231BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white">
     <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 </p>
 
@@ -55,7 +67,7 @@ Email: <rsamuelgarcia@gmail.com>
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/renegarcia-software-backend" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/resagar" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://x.com/rsamuelgarcia" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
 <a href="https://resagar.com" target="blank"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="resagar" /></a>
 <a href="https://ko-fi.com/resagar" target="blank"><img align="center" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="ko-fi" /></a>
