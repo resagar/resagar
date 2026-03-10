@@ -10,29 +10,29 @@
 
 <!--Intro start-->
 
-## ✨ Toolmaker
+## ✨ Backend Developer
 
-Durante años construí software para otros: buenos proyectos, buen código, buenos resultados. Pero siempre sentí que estaba invirtiendo mi mejor energía en construir el sueño de alguien más.
+Soy Software Developer con enfoque en backend, product engineering, APIs, integraciones y desarrollo de software útil. Trabajo principalmente con Go, TypeScript y NestJS, y me interesa construir soluciones que resuelvan problemas reales: desde funcionalidades de producto y herramientas internas hasta automatizaciones, experimentos y proyectos con potencial comercial.
 
-Hoy estoy en otro camino.
+Además de trabajar en software para empresas y clientes, también exploro proyectos propios, developer tools, flujos de trabajo potenciados con IA y pequeñas apuestas de producto que me permitan aprender, iterar y lanzar cosas al mundo.
 
-Estoy enfocado en crear mis propios productos y herramientas para developers, especialmente CLI tools y TUIs, usando Go como base y explorando lenguajes como Rust y Zig para construir software más sólido, rápido y cercano al sistema.
+### Temas que me interesan
 
-Me interesa el software que hace mucho con poco: herramientas útiles, simples, rápidas y bien diseñadas. Cosas que resuelvan problemas reales y que se sientan bien al usarlas.
+- backend engineering
+- APIs e integraciones
+- product-minded development
+- developer tools
+- IA aplicada al desarrollo
+- IA aplicada a productos para usuarios
+- construir software útil y bien pensado
 
-También comparto el proceso en público: lo que construyo, lo que aprendo, lo que funciona y lo que falla en el camino.
+### También escribo sobre
 
-Actualmente estoy construyendo:
-
-- CLI tools y experiencias TUI para developers
-- Productos pequeños, útiles y bien pensados
-- Contenido sobre building in public, software craftsmanship y el proceso de crear productos propios
-
-No es el camino más fácil, pero sí el más mío.
-
-Si te interesa ese mundo, sígueme. Comparto todo en público.
-
-Y si tienes un proyecto donde necesitas ayuda en backend, tooling o desarrollo de producto, también estoy abierto a colaboraciones selectivas.
+- software
+- producto
+- herramientas
+- aprendizaje en público
+- el proceso de convertir ideas en soluciones reales
 
 Blog: <https://resagar.com>
 
@@ -49,8 +49,12 @@ Email: <rsamuelgarcia@gmail.com>
 <!--tech stack icons-->
 <p align="center">
     <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-    <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-    <img alt="Zig" src="https://img.shields.io/badge/zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+    <img alt="Remix" src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img alt="Cloud" src="https://img.shields.io/badge/Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white">
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
     <img alt="CLI" src="https://img.shields.io/badge/CLI-gnubash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white">
     <img alt="TUI" src="https://img.shields.io/badge/TUI-tmux-%231BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white">
